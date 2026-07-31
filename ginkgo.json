@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1785506338,
+            "datetime": 1785508970,
             "filename": "axion-2.8-ONEIRA_FINAL-20260731-UNOFFICIAL-CORE-ginkgo.zip",
-            "id": "7c6a5e064e99228f7eb414e5e1876fe1",
+            "id": "7928e272849948e87e203225507746cd",
             "romtype": "UNOFFICIAL",
-            "size": 1999988853,
-            "url": "https://sourceforge.net/projects/muhm/files/Ginkgo-rom/Test/axion-2.8-ONEIRA_FINAL-20260731-UNOFFICIAL-CORE-ginkgo.zip/download",
+            "size": 1999986119,
+            "url": "https://cdn.axionos.org/ginkgo/axion-2.8-ONEIRA_FINAL-20260731-UNOFFICIAL-CORE-ginkgo.zip",
             "version": "2.8"
         }
     ]
